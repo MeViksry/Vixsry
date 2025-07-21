@@ -43,7 +43,7 @@
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixsry&show_icons=true&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeViksry&show_icons=true&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=ffffff)
 
 </div>
 

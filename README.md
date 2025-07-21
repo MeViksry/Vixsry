@@ -50,11 +50,6 @@
 ---
 <div align="center">
 
-[![GitHub](https://img.shields.io/github/followers/Vixsry?label=Follow&style=social)](https://github.com/Vixsry)
+[![GitHub](https://img.shields.io/github/followers/MeViksry?label=Follow&style=social)](https://github.com/MeViksry)
 
 </div>
-
-<!---
-Vixsry/Vixsry is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
